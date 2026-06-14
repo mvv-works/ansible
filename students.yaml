@@ -1,0 +1,27 @@
+- name: "m vijaya vamsi"
+  dob: "13-11-2003"
+  mobile: "9912093016"
+  addresses:
+  - type: perm
+    street: 101
+    area: rajendra nagar
+    city: kakinada
+
+  - type: current
+    street: 101
+    area: rajendra nagar
+    city: kakinada
+
+- name: "m vijaya vamsi"
+  dob: "13-11-2003"
+  mobile: "9912093016"
+  addresses:
+  - type: perm
+    street: 101
+    area: rajendra nagar
+    city: kakinada
+    
+  - type: current
+    street: 101
+    area: rajendra nagar
+    city: kakinada

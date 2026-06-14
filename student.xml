@@ -1,0 +1,45 @@
+<!-- this is student object -->
+<students>
+    <student>
+        <FirstName>vamsi</FirstName>
+        <LastName>M</LastName>
+        <dob>13-11-2003</dob>
+        <mobile>9912093016</mobile>
+        <!-- <Address>rajendra nagar, kakinada, 533005</Address> -->
+        <Addresses>
+            <PermAddress>
+                <Street>101</Street>
+                <AddressLine1>rajendra nagar</AddressLine1>
+                <AddressLine2>sarpavaram</AddressLine2>
+                <city>kakinada</city>
+            </PermAddress>
+            <CurrAddress>
+                <Street>101</Street>
+                <AddressLine1>rajendra nagar</AddressLine1>
+                <AddressLine2>sarpavaram</AddressLine2>
+                <city>kakinada</city>
+            </CurrAddress>
+        </Addresses>
+    </student>
+    <student>
+        <FirstName>vamsi</FirstName>
+        <LastName>M</LastName>
+        <dob>13-11-2003</dob>
+        <mobile>9912093016</mobile>
+        <!-- <Address>rajendra nagar, kakinada, 533005</Address> -->
+        <Addresses>
+            <PermAddress>
+                <Street>101</Street>
+                <AddressLine1>rajendra nagar</AddressLine1>
+                <AddressLine2>sarpavaram</AddressLine2>
+                <city>kakinada</city>
+            </PermAddress>
+            <CurrAddress>
+                <Street>101</Street>
+                <AddressLine1>rajendra nagar</AddressLine1>
+                <AddressLine2>sarpavaram</AddressLine2>
+                <city>kakinada</city>
+            </CurrAddress>
+        </Addresses>
+    </student>
+<students>

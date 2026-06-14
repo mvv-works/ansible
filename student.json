@@ -1,0 +1,41 @@
+{
+    "students":[
+        {
+            "firstName": "sivakumar",
+            "Lastname": "M",
+            "addresss": [
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "area": "Rajendra nagar",
+                    "city": "kakinada"
+                },
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "area": "Rajendra nagar",
+                    "city": "kakinada"
+                }
+            ]
+        },
+        {
+            "firstName": "sivakumar",
+            "Lastname": "M",
+            "addresss": [
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "area": "Rajendra nagar",
+                    "city": "kakinada"
+                },
+                {
+                    "type": "perm",
+                    "street": "101",
+                    "area": "Rajendra nagar",
+                    "city": "kakinada"
+                }
+            ]
+        } 
+    ]
+
+}
