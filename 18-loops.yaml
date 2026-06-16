@@ -4,8 +4,8 @@
   tasks:
   - name: install packages
     package:
-      name: "{{ item }}"
-      state: present
+      name: "{{ item.name }}"
+      state: "{{ item.state }}"
     loop:
     - { name: "nginx", state: "present" }
     - { name: "mysql", state: "abscent" }
