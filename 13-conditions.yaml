@@ -1,6 +1,6 @@
 - name: check number of live sessions
   hosts: local
-  connections: local
+  connection: local
   vars:
     live_sessions: 4
   tasks:
