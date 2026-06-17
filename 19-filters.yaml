@@ -22,7 +22,7 @@
 
   - name: convert list to map
     debug:
-      msg: "{{ tagList | items2dict }}"
+      msg: "{{ tagsList | items2dict }}"
       
 
 
