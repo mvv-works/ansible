@@ -8,7 +8,7 @@
       project: roboshop
       environment: dev
     full_name: m.vijaya vamsi
-    ip_address: 345.23.3245.456
+    ip_address: 172.31.27.21
     tagsList: [
         {
             "key": "name",
