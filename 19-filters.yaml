@@ -7,6 +7,21 @@
       name: Ansible
       project: roboshop
       environment: dev
+    tagsList: [
+        {
+            "key": "name",
+            "value": "Ansible"
+        },
+        {
+            "key": "project",
+            "value": "roboshop"
+        },
+        {
+            "key": "environment",
+            "value": "dev"
+        }
+    ]
+
   tasks:
   - name: convert string to list
     debug:
