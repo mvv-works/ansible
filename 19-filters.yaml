@@ -48,6 +48,8 @@
     debug:
       msg: "{{ full_name | lower }}"  
 
-
+  - name: to check ip is valid or not
+    debug:
+      msg: "{{ ip_address | ansible.utils.ipv4 }}" 
 
 
